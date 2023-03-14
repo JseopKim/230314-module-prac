@@ -1,0 +1,26 @@
+{
+  "name": "230314-module-prac",
+  "version": "1.0.0",
+  "description": "\"연습\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JseopKim/230314-module-prac.git"
+  },
+  "keywords": [
+    "\"prac\""
+  ],
+  "author": "\"나\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JseopKim/230314-module-prac/issues"
+  },
+  "homepage": "https://github.com/JseopKim/230314-module-prac#readme",
+  "dependencies": {
+    "pokemon": "^2.3.4",
+    "pokemon-sprites": "github:PokeAPI/sprites"
+  }
+}
